@@ -8,7 +8,7 @@
     "email": "tomi.turtiainen@gmail.com"
   },
   "engines": {
-    "node": "8"
+    "node": "16"
   },
   "dependencies": {
     "lodash": "4.17.11",

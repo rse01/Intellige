@@ -1,13 +1,13 @@
 {
-  "name": "rf-intellisense",
-  "displayName": "Robot Framework Intellisense",
-  "description": "Robot Framework Intellisense",
+  "name": "rf-intelli",
+  "displayName": "RobotFramework Intelli",
+  "description": "RobotFramework Intelli",
   "version": "2.8.0",
   "license": "MIT",
-  "publisher": "TomiTurtiainen",
+  "publisher": "ToTo",
   "icon": "icon.png",
   "engines": {
-    "vscode": "^1.26.0"
+    "vscode": "^1.64.2"
   },
   "categories": [
     "Programming Languages",

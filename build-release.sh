@@ -11,4 +11,7 @@ echo "Building client"
 cd ../client
 rm -rf ./node_modules
 npm ci
+npm install -g vsce
 vsce package
+npm run vscode:prepublish
+vsce publish
